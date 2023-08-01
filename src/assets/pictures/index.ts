@@ -8,7 +8,6 @@ import compressionShirt from "./Shirts/compressionShirt.jpg";
 import greenPoloShirt from "./Shirts/greenPoloShirt.jpg";
 import redCasualShirt from "./Shirts/redCasualShirt.jpg";
 import blueWinterJacket from "./Jackets/blueWinterJacket.jpg";
-import blueCasualJacket from "./Jackets/BlueJacket.jpg";
 import blackLeatherJacket from "./Jackets/blackLeatherJacket.jpg";
 import blackJacket from "./Jackets/blackJacket.jpg";
 import casualRedJacket from "./Jackets/redSuedeJacket.webp";
@@ -55,6 +54,7 @@ import casualpantsblue from "./Pants/casualpantsblue.jpg";
 import bluejeans5 from "./Pants/bluejeans5.jpg";
 import redjoggers3 from "./Pants/redjoggers3.jpg";
 import blackjoggers4 from "./Pants/blackjoggers4.jpg";
+import bluecasualcjacket from "./Jackets/bluecasualjacket.jpg";
 
 export { redPoloShirt, 
          blueTshirt, 
@@ -65,7 +65,6 @@ export { redPoloShirt,
          greenPoloShirt,
          redCasualShirt,
          blueWinterJacket,
-         blueCasualJacket,
          blackLeatherJacket,
          blackJacket,
          casualRedJacket,
@@ -112,6 +111,7 @@ export { redPoloShirt,
          casualpantsblue,
          bluejeans5,
          redjoggers3,
-         blackjoggers4
+         blackjoggers4,
+         bluecasualcjacket
        };
 

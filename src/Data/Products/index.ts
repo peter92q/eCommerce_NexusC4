@@ -1,4 +1,4 @@
-import { redPoloShirt, blueTshirt, blackTurtleNeck, greenPerformanceShirt, runningTop, compressionShirt, greenPoloShirt, redCasualShirt, blueWinterJacket, blueCasualJacket, blackLeatherJacket, blackJacket, casualRedJacket, redWinterJacket, greenLeatherJacket, greenWinterJacket, plaidShirt, retroBlueShirt, greenClassic, black1, green1, red1, green2, black2, black3, blue1, blue2, blue3, black4, black5, red3, red4, blue4, blue5, green3, red6, green6, black6, blue7, bluejeans1, blackjoggers1, casualpants1, redjoggers1, bluejeans2, blackjoggers2, casualpants2, redjoggers2, bluejeans3, blackjoggers3, redjeans, bluejeans4, bluejoggers, casualpantsblue, bluejeans5, redjoggers3, blackjoggers4 } from "../../assets/pictures";
+import { redPoloShirt, blueTshirt, blackTurtleNeck, greenPerformanceShirt, runningTop, compressionShirt, greenPoloShirt, redCasualShirt, blueWinterJacket, blackLeatherJacket, blackJacket, casualRedJacket, redWinterJacket, greenLeatherJacket, greenWinterJacket, plaidShirt, retroBlueShirt, greenClassic, black1, green1, red1, green2, black2, black3, blue1, blue2, blue3, black4, black5, red3, red4, blue4, blue5, green3, red6, green6, black6, blue7, bluejeans1, blackjoggers1, casualpants1, redjoggers1, bluejeans2, blackjoggers2, casualpants2, redjoggers2, bluejeans3, blackjoggers3, redjeans, bluejeans4, bluejoggers, casualpantsblue, bluejeans5, redjoggers3, blackjoggers4, bluecasualcjacket } from "../../assets/pictures";
 
 
 export const products = [
@@ -254,7 +254,7 @@ export const products = [
      type: "Casual Jacket",
      price: 65,
      discount: null,
-     img: blueCasualJacket
+     img: bluecasualcjacket
     },
     {
      brand: "Drip Brand",
